@@ -11,7 +11,7 @@ Luis Fernando Villarreal Moreno
 
 ## 🔗 Enlace del sitio desplegado
 Accede al sitio web publicado a través de GitHub Pages:  
-👉 [https://tuusuario.github.io/tu-repositorio](https://tuusuario.github.io/tu-repositorio)
+👉 [[https://tuusuario.github.io/tu-repositorio](https://tuusuario.github.io/tu-repositorio)](https://fernando4974.github.io/WebOdooERP/)
 
 ## 🛠️ Cómo instalar y ejecutar el proyecto localmente
 
