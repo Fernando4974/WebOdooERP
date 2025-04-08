@@ -62,7 +62,7 @@ body {
   }
   
   .imagenes img {
-    max-width: 825px; /* 50% más grande que antes */
+    width: 525px; /* 50% más grande que antes */
     height: auto;
     border: 1px solid #ccc;
     padding: 5px;
